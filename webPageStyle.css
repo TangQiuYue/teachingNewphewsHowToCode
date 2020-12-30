@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    border: solid blue 3px;
+    border-radius: 25px;;
+    background-color: aquamarine;
+    transition: 3s;
+}
+.title:hover{
+    background-color: greenyellow;
+}
+
+.intro{
+    margin-top: 10px;
+    text-align: center;
+    border: solid green 5px;
+    transition: 3s;
+}
+.intro:hover{
+    font-size: xx-large;
+}
+.myFirstButton{
+    margin-top: 10px;
+    text-align: center;
+    border: solid purple 5px;
+    transition: 5s;
+}
+.myFirstButton:hover{
+    margin-top: 200px;
+}
+body{
+background-color: lightgoldenrodyellow;
+}
